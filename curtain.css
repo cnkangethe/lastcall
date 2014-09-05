@@ -1,0 +1,10 @@
+body {
+background-image:url("curtaincall.jpeg");
+background-repeat: no-repeat; 
+background-size: 100%;
+background-position: top center;
+font-family: 'Permanent Marker', 'cursive';
+color:white;
+}
+span{ font-size: 20px}
+.container{ width:640px; height: 100%; margin:0 auto;}
